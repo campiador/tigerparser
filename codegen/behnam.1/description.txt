@@ -1,0 +1,11 @@
+PROJECT 5: Code Generator by Behnam
+
+(a) help:
+	Matt Ahrens with functional programming
+        Karl Cronburg with 6 arguments and then rest of list
+	Jared Chandler: talked about binops.
+
+(b) interesting details:
+	I learned how to use "case" which helped me a lot with binop implementation.
+
+	The hardest part was passing arguments to functions in registerfile and on stack based on the number of the arguments.

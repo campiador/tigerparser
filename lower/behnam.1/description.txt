@@ -1,0 +1,12 @@
+(a) help:
+	Prof. Guyer with CALL return and recursion
+	Moses Huang with symgen
+	Matt Ahrens with foldr and recursion for IF
+	Jared Chandler with comparisons
+	Jeanne-Marrie Musca with map function
+	Diogenes Nunez with understanding functional programming and SML
+
+(b) interesting details:
+	The foldr function was not included in the documents suggested in 181 home page. I found it very useful for this assignment, when iterating lists.
+	Also implementing the IF function was the hardest challenge. I sepnt the whole Thanksgiving weekend, plus the next Monday on it. So rewarding.
+	
