@@ -8,5 +8,5 @@
 
 (b) interesting details:
 	The foldr function was not included in the documents suggested in 181 home page. I found it very useful for this assignment, when iterating lists.
-	Also implementing the IF function was the hardest challenge. I sepnt the whole Thanksgiving weekend, plus the next Monday on it. So rewarding.
+	Also implementing the IF function was the hardest challenge. So rewarding.
 	
