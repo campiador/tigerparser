@@ -52,7 +52,7 @@ datatype operand = IMM of int                            (*   $53             *)
 
 (* Instructions
    Each instruction takes one or two operands. See the X64 cheat sheet for
-   specific details on the role of each operand. Remember that the first
+   specific details on the role of each operand. The first
    operand is the *source* and the second operand is the *destination*. *)
 
 datatype x64ins = MOVE of operand * operand
